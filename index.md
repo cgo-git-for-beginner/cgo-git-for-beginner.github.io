@@ -91,7 +91,7 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Ảnh
 
 ```markdown
-![chữ-thay-thế](image.jpg)
+![chữ-thay-thế](image.png)
 ```
 
-![chữ-thay-thế](image.jpg)
+![chữ-thay-thế](image.png)
