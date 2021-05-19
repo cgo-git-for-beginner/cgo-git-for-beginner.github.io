@@ -6,8 +6,6 @@ Bạn có thể tham khảo cú pháp này khi viết  GitHub Page.
 
 ## Cú pháp cơ bản
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
 ### Các tiêu đề
 
 ```markdown
